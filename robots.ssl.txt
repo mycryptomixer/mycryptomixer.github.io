@@ -1,0 +1,4 @@
+Sitemap: https://mycryptomixer.com/sitemap.xml
+
+User-agent: *
+Disallow:
